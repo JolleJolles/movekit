@@ -4,8 +4,8 @@ from setuptools import setup
 setup(
     name="movekit",
     version="0.1.2",
-    author="Arjun Majumdar, Eren Cakmak, Jolle Jolles",
-    author_email="arjun.majumdar@uni-konstanz.de, eren.cakmak@uni-konstanz.de, jjolles@orn.mpg.de",
+    author="Arjun Majumdar, Eren Cakmak, Jolle Jolles", 
+    author_email="arjun.majumdar@uni-konstanz.de, eren.cakmak@uni-konstanz.de, j.w.jolles@gmail.com",
     description="Simple and effective tools for the analysis of movement data",
     long_description="Movekit is a open-source software for the analysis of movement data. The package includes modules for preoprocessing, features extraction, and statistical analysis.",
     long_description_content_type="text/markdown",
